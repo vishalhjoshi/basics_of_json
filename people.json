@@ -1,0 +1,29 @@
+{
+    "people":[
+
+        {
+            "name":"vishal",
+            "age":26
+        },
+        {
+            "name":"sunil",
+            "age":30
+        },
+        {
+            "name":"rajesh",
+            "age":18
+        },
+        {
+            "name":"santosh",
+            "age":19
+        },
+        {
+            "name":"john",
+            "age":30
+        },
+        {
+            "name":"sara",
+            "age":35
+        }
+    ]
+}
